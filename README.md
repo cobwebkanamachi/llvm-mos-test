@@ -8,7 +8,10 @@ mos-c64-clang -Os -o hello.prg hello.c
 mos-c64-clang++ -Os -o helloc++.prg hello.c++  
 Then Invoke VICE(C64SC) and drop hello.prg or helloc++.prg on it.
 </PRE>
-hello.prg
+hello.prg<BR>
 <img src="https://github.com/cobwebkanamachi/llvm-mos-test/blob/main/c64clang.png">
-helloc++.prg
+<BR><BR>
+helloc++.prg<BR>
 <img src="https://github.com/cobwebkanamachi/llvm-mos-test/blob/main/c64clang%2B%2B.png">
+<BR>
+Enjoy!
